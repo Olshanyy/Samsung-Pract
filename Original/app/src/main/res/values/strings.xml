@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleKeyboard</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="button_send">name input</string>
+    <string name="edit_password">your password</string>
+    <string name="edit_message">your name</string>
+    <string name="CommitButton">CommitResult</string>
+    <string name="writefile">WriteToFile</string>
+
+</resources>
